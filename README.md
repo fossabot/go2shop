@@ -23,6 +23,7 @@
 
 # Login
 ![Login](https://github.com/benchen216/go2shop/blob/main/screenshot/login.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenchen216%2Fgo2shop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbenchen216%2Fgo2shop?ref=badge_shield)
 
 # Home
 ![Home](https://github.com/benchen216/go2shop/blob/main/screenshot/home.png)
@@ -76,3 +77,6 @@ Prisma setup
 prisma push
 prisma generate
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenchen216%2Fgo2shop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbenchen216%2Fgo2shop?ref=badge_large)
